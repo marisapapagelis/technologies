@@ -5,14 +5,14 @@ This repository contains starting pieces for a database curated to contain the c
 
 The Google Sheets spreadsheet containing the collection can be found [here](https://docs.google.com/spreadsheets/d/1hG13O_lkV9dREDhqDNFHscC5s97witVNf3W6xWI-S8g/edit#gid=614392752). 
 
-Initial Figma database design can be found [here]([https://docs.google.com/spreadsheets/d/1hG13O_lkV9dREDhqDNFHscC5s97witVNf3W6xWI-S8g/edit#gid=614392752](https://www.figma.com/file/3Q2HsFEcL6Yi2GiTb0SnSc/Technologies-Database?node-id=0%3A1)). 
+Initial Figma database design can be found [here]([https://docs.google.com/spreadsheets/d/1hG13O_lkV9dREDhqDNFHscC5s97witVNf3W6xWI-S8g/edit#gid=614392752](https://www.figma.com/file/3Q2HsFEcL6Yi2GiTb0SnSc/Technologies-Database?node-id=0%3A1). 
 
 ## Repository Contents 
 
-A sample database was curated using two different techniques. The first technique uses the Figma add-on [Bravo] (https://www.bravostudio.app/) and is accurate, easily navigatable, and complete; however, it only works on an mobile device application, which is not ideal for this project. The second technique shows a lot more promise, but it has only been started due to time limiations. So far, it contains two local HTML pages containing the main content of the design (dropdowns may need to be altered due to changes in the dropdown options in the Google Sheets collection).  
+A sample database was curated using two different techniques. The first technique uses the Figma add-on [Bravo](https://www.bravostudio.app/) and is accurate, easily navigatable, and complete; however, it only works on an mobile device application, which is not ideal for this project. The second technique shows a lot more promise, but it has only been started due to time limiations. So far, it contains two local HTML pages containing the main content of the design (dropdowns may need to be altered due to changes in the dropdown options in the Google Sheets collection).  
 
 Technique 1: Bravo - finished product for remote mobile app 
-* Mock-up located [here] (https://projects.bravostudio.app/apps/01G2K1C0DQKJ0QF96XG65WB5EF/screens).
+* Mock-up located [here](https://projects.bravostudio.app/apps/01G2K1C0DQKJ0QF96XG65WB5EF/screens).
 * The mobile application was not launched, but it can be tested/viewed using the Bravo Vision mobile application. 
 
 Technique 2: HTML Pages - starting point for remote web app
