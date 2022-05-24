@@ -5,7 +5,7 @@ This repository contains starting pieces for a database curated to contain the c
 
 The Google Sheets spreadsheet containing the collection can be found [here](https://docs.google.com/spreadsheets/d/1hG13O_lkV9dREDhqDNFHscC5s97witVNf3W6xWI-S8g/edit#gid=614392752). 
 
-Initial Figma database design can be found [here](https://docs.google.com/spreadsheets/d/1hG13O_lkV9dREDhqDNFHscC5s97witVNf3W6xWI-S8g/edit#gid=614392752](https://www.figma.com/file/3Q2HsFEcL6Yi2GiTb0SnSc/Technologies-Database?node-id=0%3A1). 
+The initial Figma database design can be found [here](https://www.figma.com/file/3Q2HsFEcL6Yi2GiTb0SnSc/Technologies-Database?node-id=0%3A1). 
 
 ## Repository Contents 
 
